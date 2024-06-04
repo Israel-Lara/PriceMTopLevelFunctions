@@ -1,0 +1,14 @@
+C:\Projects\TopLevelFunctions\bin\Debug\net7.0\TopLevelFunctions.exe
+C:\Projects\TopLevelFunctions\bin\Debug\net7.0\TopLevelFunctions.deps.json
+C:\Projects\TopLevelFunctions\bin\Debug\net7.0\TopLevelFunctions.runtimeconfig.json
+C:\Projects\TopLevelFunctions\bin\Debug\net7.0\TopLevelFunctions.dll
+C:\Projects\TopLevelFunctions\bin\Debug\net7.0\TopLevelFunctions.pdb
+C:\Projects\TopLevelFunctions\obj\Debug\net7.0\TopLevelFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TopLevelFunctions\obj\Debug\net7.0\TopLevelFunctions.AssemblyInfoInputs.cache
+C:\Projects\TopLevelFunctions\obj\Debug\net7.0\TopLevelFunctions.AssemblyInfo.cs
+C:\Projects\TopLevelFunctions\obj\Debug\net7.0\TopLevelFunctions.csproj.CoreCompileInputs.cache
+C:\Projects\TopLevelFunctions\obj\Debug\net7.0\TopLevelFunctions.dll
+C:\Projects\TopLevelFunctions\obj\Debug\net7.0\refint\TopLevelFunctions.dll
+C:\Projects\TopLevelFunctions\obj\Debug\net7.0\TopLevelFunctions.pdb
+C:\Projects\TopLevelFunctions\obj\Debug\net7.0\TopLevelFunctions.genruntimeconfig.cache
+C:\Projects\TopLevelFunctions\obj\Debug\net7.0\ref\TopLevelFunctions.dll
