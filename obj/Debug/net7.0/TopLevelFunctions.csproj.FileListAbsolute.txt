@@ -12,3 +12,4 @@ C:\Projects\TopLevelFunctions\obj\Debug\net7.0\refint\TopLevelFunctions.dll
 C:\Projects\TopLevelFunctions\obj\Debug\net7.0\TopLevelFunctions.pdb
 C:\Projects\TopLevelFunctions\obj\Debug\net7.0\TopLevelFunctions.genruntimeconfig.cache
 C:\Projects\TopLevelFunctions\obj\Debug\net7.0\ref\TopLevelFunctions.dll
+C:\Projects\topLevelFunctions\obj\Debug\net7.0\TopLevelFunctions.sourcelink.json
